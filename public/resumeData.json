@@ -4,7 +4,7 @@
     "occupation": "Self-Employed Full Stack Software Developer",
     "description": "I have 8+ years of strong hands-on experience in web/cloud technologies. I have strong experience with full stack development including understanding UI frameworks and backend architecture interactions",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I am a senior Full Stack Developer with 8+ years of hands-on experience. I have been working as a freelancer since 2010 and I have been concentrating on building marketplace, e-commerce, real estate, rental, booking sites for the last five years and developed a lot of sites using individual frameworks like React, Angular, Vue, Node and Ruby on Rails, Python/Django and PHP frameworks",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "devsuper1119@gmail.com",
     "phone": "323-284-5064",
@@ -15,7 +15,7 @@
       "zip": "96768"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/open?id=1JC4dkN0yGC3RK337ogU83_OaRbTloTuF",
     "social": [
       {
         "name": "facebook",
@@ -55,71 +55,127 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are my skills",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "HKUST Business School",
+        "degree": "Bachelor's degree, Business",
+        "graduated": "March 2017",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "CodeCore Developer Bootcamp",
+        "degree": "Programming Fundamentals Bootcamp, Computer Programming",
+        "graduated": "Nov 2013",
+        "description": ""
+      },
+      {
+        "school": "Simplilearn Alumni",
+        "degree": "Ruby on Rails Certification Training Course",
+        "graduated": "Nov 2015",
+        "description": ""
+      },
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Web Development",
+        "graduated": "Sept 2019",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Baal & Sports",
+        "title": "Senior PHP/Javascript Developer",
+        "years": "Jan 2017 - Sept 2019",
+        "description": "Worked as an Full-Stack PHP/Javascript Developer and published 5 big projects"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Speed Leasing",
+        "title": "Remote Ruby on Rails / React Developer",
+        "years": "Feb 2018 - Jan 2019",
+        "description": "Worked as a remote RoR/React Developer and developed front-end user interface using React and back-end apis using RoR"
+      },
+      {
+        "company": "2txt - natural language generation GmbH",
+        "title": "Software Developer",
+        "years": "Aug 2017 - Dec 2018",
+        "description": "Python/Django, AWS, Terraform, Ansible, ELK-Stack"
+      },
+      {
+        "company": "Austin Coding Academy",
+        "title": "Full Stack Developer",
+        "years": "Jan 2015 - May 2017",
+        "description": "Full Stack Java | Spring Developer at Austin Code Academy. Passionate about finding and cultivating resources to ensure students are successful. Passionate about data. Interested in making full stack web apps that embody good design principles. Come talk to me, let's build good things"
+      },
+      {
+        "company": "Voyage",
+        "title": "Senior React Developer",
+        "years": "Sept 2013 - Aug 2017",
+        "description": "Helped its internal development team build NZTA (New Zealand TransportAgency) Fatigue Admin Dashboard using React.js, Apollo/React-hooks and Ruby on Rails."
+      },
+      {
+        "company": "Self-Employed",
+        "title": "Senior Software Engineer",
+        "years": "2010 - Present",
+        "description": "Freelancer since 2010, 8+ years of experience with web+mobile development and team management. Specializing in React, React Native, Redux, Node, Angular, TypeScript, Ruby on Rails, WebGL, Three.js, GraphQL, AWS, and everything else Javascript."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Javascript",
+        "level": "100%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "PHP",
+        "level": "100%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "React.js / Next.js",
+        "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Vue.js / Nuxt.js",
+        "level": "97%"
       },
       {
-        "name": "HTML5",
+        "name": "AngularJS / Angular 2+",
+        "level": "100%"
+      },
+      {
+        "name": "Ruby / Ruby on Rails",
+        "level": "100%"
+      },
+      {
+        "name": "Ionic / React-Native",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Node.js / Sails.js / Koa.js / Express.js",
+        "level": "95%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "95%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "Postgresql",
+        "level": "99%"
+      },
+      {
+        "name": "AWS",
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Shopping Place",
+        "category": "Ruby on Rails, React.js, Redis",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
@@ -152,12 +208,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Alfred is wonderful to work with. He is consistent, available, and reliable. He delivers quality work and meets the requirements of the job, but even more than that, he thinks through what I or the end-user will need a proposes adjustments to the requirements in order to make a better product. I am excited to continue working with him.",
+        "user": "Orachi tokuyama"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Jason has worked with me as a full-stack developer/data analyst for several product launches for the past three months. I’m amazed by Jason’s ability to make long-term partners with anyone, a skill he uses to full effect when presenting/building new applications to the clients.",
+        "user": "Andrea Dario"
       }
     ]
   }
